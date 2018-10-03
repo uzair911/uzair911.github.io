@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Contact</title>
+   <link rel="stylesheet" type="text/css" href="header.css">
+</head>
+<body>
+<div id="header">
+<h1>Kashmir</h1>
+<p>The Paradise on Earth</p>
+<div id="nav">
+	<ul>
+		<a href="#"><li class="active">Home</li></a>
+		<a href="gallery.html"><li>Gallery</li></a>
+		<a href=""><li>Contact</li></a>
+		<a href=""><li>About</li></a>
+	</ul>
+</div>
+</div>
+<div id="footer">
+	<footer>
+	<h4>Copyright 2018 | Developed by Uzi Tech | All Rights Reserved.</h4>
+</footer>
+</div>
+</body>
+</html>
